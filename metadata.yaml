@@ -1,0 +1,24 @@
+_repo: Rhyme-and-Reason-Volume-Two_6034
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dom
+    alias: Wong, L. M.
+    gutenberg_agent_id: '1770'
+    url: http://www.gutenberg.org/2009/agents/1770
+    wikipedia: http://dominaeprimus.blogspot.com/
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6034'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+- GITenberg
+title: Rhyme and Reason Volume Two
+url: http://www.gutenberg.org/ebooks/6034
